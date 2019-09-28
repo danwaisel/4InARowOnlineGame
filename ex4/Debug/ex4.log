@@ -1,0 +1,23 @@
+﻿  client.c
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\client.c(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\client.c: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\client.c(341): warning C4047: 'function': 'u_short' differs in levels of indirection from 'char [5]'
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\client.c(341): warning C4024: 'htons': different types for formal and actual parameter 1
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\client.c(408): warning C4013: 'gets' undefined; assuming extern returning int
+  main.c
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\main.c(23): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\main.c: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  send_receive.c
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\send_receive.c(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\send_receive.c: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  server.c
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\server.c(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\server.c: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\server.c(122): warning C4047: 'function': 'u_short' differs in levels of indirection from 'char [5]'
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\server.c(122): warning C4024: 'htons': different types for formal and actual parameter 1
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\server.c(196): warning C4022: 'CreateThread': pointer mismatch for actual parameter 4
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\server.c(421): warning C4047: '!=': 'SOCKET' differs in levels of indirection from 'void *'
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\server.c(849): warning C4047: '=': 'SOCKET' differs in levels of indirection from 'void *'
+c:\users\sharon\documents\dan'sdocuments\semester6\os\final ex4\ex4\ex4\server.c(850): warning C4047: '=': 'SOCKET' differs in levels of indirection from 'void *'
+  Generating Code...
+  ex4.vcxproj -> C:\Users\Sharon\Documents\Dan'sDocuments\Semester6\OS\final ex4\ex4\Debug\ex4.exe
